@@ -12,97 +12,97 @@
             <Font size="38.0" />
          </font>
       </TextField>
-      <Button fx:id="btn0" layoutY="275.0" mnemonicParsing="false" onAction="#on0ButtonClick" prefHeight="49.0" prefWidth="115.0" style="-fx-background-color: #5F5F61#5F5F61;" text="0          " textFill="WHITE">
+      <Button fx:id="btn0" layoutY="275.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="115.0" style="-fx-background-color: #5F5F61#5F5F61;" text="0          " textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btnComa" layoutX="116.0" layoutY="275.0" mnemonicParsing="false" onAction="#onComaButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="," textFill="WHITE">
+      <Button fx:id="btnComa" layoutX="116.0" layoutY="275.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="," textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btnEquals" layoutX="174.0" layoutY="275.0" mnemonicParsing="false" onAction="#onEqualsButtonClick" prefHeight="49.0" prefWidth="58.0" style="-fx-background-color: #FD9E2B;" text="=" textFill="WHITE">
+      <Button fx:id="btnEquals" layoutX="174.0" layoutY="275.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="58.0" style="-fx-background-color: #FD9E2B;" text="=" textFill="WHITE">
          <font>
             <Font size="26.0" />
          </font>
       </Button>
-      <Button fx:id="btn1" layoutY="224.0" mnemonicParsing="false" onAction="#on1ButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="1" textFill="WHITE">
+      <Button fx:id="btn1" layoutY="224.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="1" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btn2" layoutX="58.0" layoutY="224.0" mnemonicParsing="false" onAction="#on2ButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="2" textFill="WHITE">
+      <Button fx:id="btn2" layoutX="58.0" layoutY="224.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="2" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btn3" layoutX="116.0" layoutY="224.0" mnemonicParsing="false" onAction="#on3ButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="3" textFill="WHITE">
+      <Button fx:id="btn3" layoutX="116.0" layoutY="224.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="3" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btnAdd" layoutX="174.0" layoutY="224.0" mnemonicParsing="false" onAction="#onAddButtonClick" prefHeight="49.0" prefWidth="58.0" style="-fx-background-color: #FD9E2B #FD9E2B;" text="+" textFill="WHITE">
+      <Button fx:id="btnAdd" layoutX="174.0" layoutY="224.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="58.0" style="-fx-background-color: #FD9E2B #FD9E2B;" text="+" textFill="WHITE">
          <font>
             <Font size="26.0" />
          </font>
       </Button>
-      <Button fx:id="btn4" layoutY="173.0" mnemonicParsing="false" onAction="#on4ButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="4" textFill="WHITE">
+      <Button fx:id="btn4" layoutY="173.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="4" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btn5" layoutX="58.0" layoutY="173.0" mnemonicParsing="false" onAction="#on5ButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="5" textFill="WHITE">
+      <Button fx:id="btn5" layoutX="58.0" layoutY="173.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="5" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btn6" layoutX="116.0" layoutY="173.0" mnemonicParsing="false" onAction="#on6ButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="6" textFill="WHITE">
+      <Button fx:id="btn6" layoutX="116.0" layoutY="173.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="6" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btnRest" layoutX="174.0" layoutY="173.0" mnemonicParsing="false" onAction="#onRestButtonClick" prefHeight="49.0" prefWidth="58.0" style="-fx-background-color: #FD9E2B #FD9E2B #FD9E2B #FD9E2B;" text="-" textFill="WHITE">
+      <Button fx:id="btnRest" layoutX="174.0" layoutY="173.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="58.0" style="-fx-background-color: #FD9E2B #FD9E2B #FD9E2B #FD9E2B;" text="-" textFill="WHITE">
          <font>
             <Font size="26.0" />
          </font>
       </Button>
-      <Button fx:id="btn7" layoutY="122.0" mnemonicParsing="false" onAction="#onSevenButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61;" text="7" textFill="WHITE">
+      <Button fx:id="btn7" layoutY="122.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61;" text="7" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btn8" layoutX="58.0" layoutY="122.0" mnemonicParsing="false" onAction="#on8ButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="8" textFill="WHITE">
+      <Button fx:id="btn8" layoutX="58.0" layoutY="122.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="8" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btn9" layoutX="116.0" layoutY="122.0" mnemonicParsing="false" onAction="#on9ButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="9" textFill="WHITE">
+      <Button fx:id="btn9" layoutX="116.0" layoutY="122.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #5F5F61#5F5F61;" text="9" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btnMultiplication" layoutX="174.0" layoutY="122.0" mnemonicParsing="false" onAction="#onMultiplicationButtonClick" prefHeight="49.0" prefWidth="58.0" style="-fx-background-color: #FD9E2B #FD9E2B #FD9E2B #FD9E2B;" text="×" textFill="WHITE">
+      <Button fx:id="btnMultiplication" layoutX="174.0" layoutY="122.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="58.0" style="-fx-background-color: #FD9E2B #FD9E2B #FD9E2B #FD9E2B;" text="×" textFill="WHITE">
          <font>
             <Font size="26.0" />
          </font>
       </Button>
-      <Button fx:id="btnAC" layoutY="71.0" mnemonicParsing="false" onAction="#onACButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #3F4042;" text="AC" textFill="WHITE">
+      <Button fx:id="btnAC" layoutY="71.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #3F4042;" text="AC" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btnChangeSigned" layoutX="58.0" layoutY="71.0" mnemonicParsing="false" onAction="#onChangeSignedButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #3F4042 #3F4042;" text="+/-" textFill="WHITE">
+      <Button fx:id="btnChangeSigned" layoutX="58.0" layoutY="71.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #3F4042 #3F4042;" text="+/-" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btnPercentage" layoutX="116.0" layoutY="71.0" mnemonicParsing="false" onAction="#onPercentageButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #3F4042 #3F4042;" text="\%" textFill="WHITE">
+      <Button fx:id="btnPercentage" layoutX="116.0" layoutY="71.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="57.0" style="-fx-background-color: #3F4042 #3F4042;" text="\%" textFill="WHITE">
          <font>
             <Font size="20.0" />
          </font>
       </Button>
-      <Button fx:id="btnDivision" layoutX="174.0" layoutY="71.0" mnemonicParsing="false" onAction="#onDivisionButtonClick" prefHeight="49.0" prefWidth="58.0" style="-fx-background-color: #FD9E2B #FD9E2B #FD9E2B #FD9E2B;" text="÷" textFill="WHITE">
+      <Button fx:id="btnDivision" layoutX="174.0" layoutY="71.0" mnemonicParsing="false" onAction="#onEveryButtonClick" prefHeight="49.0" prefWidth="58.0" style="-fx-background-color: #FD9E2B #FD9E2B #FD9E2B #FD9E2B;" text="÷" textFill="WHITE">
          <font>
             <Font size="26.0" />
          </font>
