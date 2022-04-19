@@ -7,10 +7,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-/***
- * Calculadora estándar que ofrece operaciones básicas y evalúa los comandos inmediatamente a medida que se ingresan.
- * author: Miguel Castelló Sosa
- */
+
 public class CalculatorApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
